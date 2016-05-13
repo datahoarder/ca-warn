@@ -8,7 +8,20 @@ California's Employment Development Department posts WARN notices online at:
 
 [http://www.edd.ca.gov/jobs_and_training/Layoff_Services_WARN.htm](http://www.edd.ca.gov/jobs_and_training/Layoff_Services_WARN.htm)
 
-The files are published as PDFs; this repo contains:
+The files are published as PDFs. This is the shell command to collect them all:
+
+
+~~~sh
+$ wget -r --level 1 --accept pdf --no-directories \
+       http://www.edd.ca.gov/jobs_and_training/Layoff_Services_WARN.htm
+~~~
+
+
+
+## Manifest 
+
+This repo contains:
+
 
 
 - [pdfs/](pdfs/) - a mirror of those PDFs (from 2012 May 10, 2016) 
@@ -19,6 +32,13 @@ The files are published as PDFs; this repo contains:
   + [just-tables-csv](abbyy/just-tables-csv) - Same as above, just converted to CSV. Probably the most convenient.
 
 The table format changes over the years so there's an output file for each original PDF.
+
+
+
+
+
+
+## Table format
 
 
 Here's what [pdfs/eddwarncn12.pdf](pdfs/eddwarncn12.pdf) looks like as a [CSV](abbyy/just-tables-csv/eddwarncn12.csv):
