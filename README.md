@@ -72,27 +72,38 @@ Here's what [pdfs/eddwarncn12.pdf](pdfs/eddwarncn12.pdf) looks like as a [CSV](a
 
 
 
-And here's what [pdfs/WARN-Report-for-7-1-2015-to-05-10-2016.pdf](pdfs/WARN-Report-for-7-1-2015-to-05-10-2016.pdf) looks like as a [CSV](abbyy/WARN-Report-for-7-1-2015-to-05-10-2016.csv):
+And here's what [pdfs/WARN-Report-for-7-1-2015-to-05-10-2016.pdf](pdfs/WARN-Report-for-7-1-2015-to-05-10-2016.pdf) looks like as a [CSV](abbyy/just-tables-csv/WARN-Report-for-7-1-2015-to-05-10-2016.csv):
 
 
-| ﻿Notice Date | Effective Date | Received Date |             Company              |      City     | No. Of Employees |        Layoff/Closure        |
-|--------------|----------------|---------------|----------------------------------|---------------|------------------|-----------------------------|
-| 06/30/2014   | 06/18/2014     | 07/01/2014    | Symantec Corporation             | Mountain View |               51 | Layoff Permanent            |
-| 06/30/2014   | 09/12/2014     | 07/07/2014    | Post Foods, LLC                  | Modesto       |               52 | Closure Permanent           |
-| 06/30/2014   | 09/26/2014     | 07/07/2014    | Post Foods, LLC                  | Modesto       |                6 | Closure Permanent           |
-| 07/01/2014   | 09/15/2014     | 07/07/2014    | Crissair, Inc                    | Palmdale      |              170 | Closure Permanent           |
-| 07/02/2014   | 10/01/2014     | 07/07/2014    | Brooks Automation Inc.           | Petaluma      |               89 | Closure Permanent           |
-| 07/08/2014   | 09/07/2014     | 07/08/2014    | Bimbo Bakeries USA, Inc.         | Fresno        |               73 | Layoff Permanent            |
-| 07/09/2014   | 09/07/2014     | 07/10/2014    | Buca Restaurants 2, Inc./Buca di | Irvine        |               87 | Closure Permanent           |
-| 07/15/2014   | 09/15/2014     | 07/17/2014    | Xerox Business Services          | Bakersfield   |               38 | Layoff Permanent            |
-| 07/17/2014   | 09/15/2014     | 07/17/2014    | Microsift and Nokia Inc          | San Diego     |              378 | Layoff Permanent            |
-| 06/24/2015   | 08/19/2015     | 06/30/2015    | SureFire, LLC                    | Santa Ana     |                2 | Layoff Permanent            |
-| 06/24/2015   | 08/19/2015     | 06/30/2015    | SureFire, LLC                    | Santa Ana     |               10 | Layoff Permanent            |
-| 06/25/2015   | 08/24/2015     | 06/30/2015    | Intuit, Inc.                     | Menlo Park    |               27 | Layoff Permanent            |
-| 06/25/2015   | 08/24/2015     | 06/30/2015    | Intuit, Inc.                     | Mountain View |               13 | Layoff Permanent            |
-| 06/25/2015   | 08/24/2015     | 06/30/2015    | Intuit, Inc.                     | San Diego     |               11 | Layoff Permanent            |
-| 06/25/2015   | 08/24/2015     | 06/30/2015    | Intuit, Inc.                     | San Francisco |               86 | Layoff Permanent            |
-| 06/25/2015   | 08/24/2015     | 06/30/2015    | Intuit, Inc.                     | Santa Monica  |               49 | Closure Permanent           |
-| 06/25/2015   | 08/24/2015     | 06/30/2015    | Intuit, Inc.                     | Venice        |               11 | Closure Permanent           |
-| 06/29/2015   | 08/28/2015     | 06/30/2015    | Safeway, Inc.                    | Pleasanton    |               18 | Layoff Unknown at this time |
-| 06/30/2015   | 07/22/2015     | 06/30/2015    | Medtronic Ablation Frontiers LLC | Carlsbad      |               50 | Closure Permanent           |
+| ﻿Notice Date | Effective Date | Received Date |                 Company                  |      City     | No. Of Employees |        Layoff/Closure       |
+|--------------|----------------|---------------|------------------------------------------|---------------|------------------|-----------------------------|
+| 06/22/2015   | 03/25/2016     | 07/01/2015    | Maxim Integrated Product                 | San Jose      |              150 | Closure Permanent           |
+| 06/30/2015   | 08/29/2015     | 07/01/2015    | McGraw-Hill Education                    | Monterey      |              137 | Layoff Unknown at this time |
+| 06/30/2015   | 08/30/2015     | 07/01/2015    | Long Beach Memorial Medical Center       | Long Beach    |               90 | Layoff Permanent            |
+| 07/01/2015   | 09/02/2015     | 07/01/2015    | Leidos                                   | El Segundo    |               72 | Layoff Permanent            |
+| 07/01/2015   | 09/30/2016     | 07/01/2015    | Bosch Healthcare Systems, Inc.           | Palo Alto     |               55 | Closure Permanent           |
+| 06/29/2015   | 09/01/2015     | 07/02/2015    | Encompass Digital Media, Inc.            | Los Angeles   |               41 | Closure Permanent           |
+| 07/02/2015   | 07/06/2015     | 07/02/2015    | Alphatec Spine                           | Carlsbad      |               99 | Layoff Permanent            |
+| 06/30/2015   | 08/07/2015     | 07/06/2015    | Symantec Corporation                     | Mountain View |               60 | Layoff Permanent            |
+| 06/30/2015   | 08/31/2015     | 07/06/2015    | Fusion Contacts Centers, LLC             | Santa Maria   |               50 | Closure Permanent           |
+| 06/30/2015   | 09/15/2015     | 07/06/2015    | KLA-T encor Corporation                  | Milpitas      |              213 | Layoff Permanent            |
+| 07/01/2015   | 09/04/2015     | 07/06/2015    | Southern California Edison Company       | San Clemente  |              100 | Closure Permanent           |
+| 05/06/2016   | 07/08/2016     | 05/06/2016    | Pactiv LLC                               | Vernon        |              108 | Closure Permanent           |
+| 04/29/2016   | 06/10/2016     | 05/09/2016    | Symantec Corporation                     | Mountain View |               15 | Layoff Permanent            |
+| 04/29/2016   | 06/30/2016     | 05/09/2016    | First Student                            | Yucca Valley  |                5 | Closure Permanent           |
+| 04/29/2016   | 06/30/2016     | 05/09/2016    | The Declan Suites San Diego              | San Diego     |               65 | Layoff Permanent            |
+| 05/05/2016   | 05/02/2016     | 05/09/2016    | Homemade Real Foods                      | Vernon        |              316 | Layoff Permanent            |
+| 05/05/2016   | 07/07/2016     | 05/09/2016    | Roof Diagnostics Solar and Electric, LLC | San Francisco |               48 | Layoff Permanent            |
+| 05/06/2016   | 07/06/2016     | 05/09/2016    | Brake Parts Inc.                         | Chowchilla    |                1 | Layoff Permanent            |
+| 05/09/2016   | 07/10/2016     | 05/09/2016    | Los Angeles Guild LLC                    | Hawthorne     |               57 | Layoff Permanent            |
+
+
+## Caveats
+
+There's obvious inconsistencies and errors in the data. The newer formats have a summary table at the end, [which needs to be manually removed](https://github.com/datahoarder/ca-warn/blob/master/abbyy/just-tables-csv/WARN-Report-for-7-1-2015-to-05-10-2016.csv#L631-L650).
+
+Then there are errors of spelling, such as ["Microsift"](https://github.com/datahoarder/ca-warn/search?utf8=%E2%9C%93&q=Microsift)
+
+In the [first 2014 file, a Zynga layoff of 194 jobs each shows up twice](https://github.com/datahoarder/ca-warn/blob/baacea5c6d0edc86bd4b2d72e3184761326f24fa/abbyy/just-tables-csv/eddwarncn14.csv#L413-L414).
+
+I'm don't think [pdfs/eddwarncn14.pdf](pdfs/eddwarncn14.pdf) actually contains all of 2014, i.e. what's included in the [two interim files that overlap with 2015](/pdfs).
