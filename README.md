@@ -107,3 +107,5 @@ Then there are errors of spelling, such as ["Microsift"](https://github.com/data
 In the [first 2014 file, a Zynga layoff of 194 jobs each shows up twice](https://github.com/datahoarder/ca-warn/blob/baacea5c6d0edc86bd4b2d72e3184761326f24fa/abbyy/just-tables-csv/eddwarncn14.csv#L413-L414).
 
 I'm don't think [pdfs/eddwarncn14.pdf](pdfs/eddwarncn14.pdf) actually contains all of 2014, i.e. what's included in the [two interim files that overlap with 2015](/pdfs).
+
+And of course, you have to know the name that a company officially goes by. The 109 IBM layoffs mentioned in the [Merc News article](http://www.mercurynews.com/business/ci_29880696/tech-layoffs-more-than-double-bay-area) is [found under "International Business Machines"](https://github.com/datahoarder/ca-warn/blob/master/abbyy/just-tables-csv/WARN-Report-for-7-1-2015-to-05-10-2016.csv#L546).
