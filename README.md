@@ -11,7 +11,7 @@ California's Employment Development Department posts WARN notices online at:
 The files are published as PDFs; this repo contains:
 
 
-- [pdfs/][pdfs/] - a mirror of those PDFs (from 2012 May 10, 2016) 
+- [pdfs/](pdfs/) - a mirror of those PDFs (from 2012 May 10, 2016) 
 - [pdftotext-layout/](pdftotext-layout/) - the result of running those PDFs through [poppler's](https://poppler.freedesktop.org/) `pdftotext -layout`
 - __abbyy/__
   + [all-text-xlsx](abbyy/all-text-xlsx/) - ABBYY FineReader's PDF-to-Excel conversion, including content in- and outside-of what it detects as tables.
