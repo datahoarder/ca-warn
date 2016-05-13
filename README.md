@@ -2,7 +2,7 @@
 
 (Collected on May 12, 2016)
 
-Related story: [Tech layoffs more than double in Bay Area](http://www.mercurynews.com/business/ci_29880696/tech-layoffs-more-than-double-bay-area
+Related story: [Tech layoffs more than double in Bay Area](http://www.mercurynews.com/business/ci_29880696/tech-layoffs-more-than-double-bay-area)
 
 California's Employment Development Department posts WARN notices online at:
 
